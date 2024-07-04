@@ -1,4 +1,5 @@
 #Makefile
+# 명령어 실행 순서 : 2-3-1
 all: sum-test
 
 sum-test: main.o sum.o
